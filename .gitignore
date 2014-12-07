@@ -1,0 +1,16 @@
+<div id="text-18" class="widget widget_text">			<div class="textwidget"><div style="background: #ff6600; padding: 15px;">
+<div style="width: 100%; margin-bottom: 40px;">
+
+<img class="aligncenter" style="width: 100%;" alt="" src="http://dominio.com/image.jpg" width="252" height="197" />
+<div style="display: inline-block; center-align: top; width: 100%;">
+<h3 style="margin-center: 30px; color: #fff; font-family: 'Raleway';">Modificar aquí</h3>
+<strong><span style="margin-center: 30px; color: #ffffff; font-family: Raleway;">Modificar aquí</span></strong>
+
+</div>
+</div>
+<div style="clear: both;"></div>
+<form class="yourFormContainer" action="http://acumbamail.com/signup/AÑADIR NÚMERO DE LISTA/" method="post"><input style="border: none; height: 40px; width: 100%; padding-left: 20px; float: left; margin-right: 10px;" type="text" name="email_1" placeholder="Apúnta tu correo" />
+<input type="hidden" name="ok_redirect" value="http://www.TUDOMINIO.com" />
+ <input class="yourButtonStyle" style="height: 40px; border: none; background: #000; color: #fff; font-family: 'Raleway'; font-weight: 100; font-size: 16px;margin-top:10px" type="submit" value="Suscríbete ahora" /></form></div>
+</div>
+
